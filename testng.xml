@@ -2,7 +2,9 @@
 <suite name="Test Suite">
 	<test name="Functional">
 		<classes>
-			<class name="automationScript.RunnerScript" />
+			<class name="automationScript.DriverSet" />
+			<class name="automationScript.ContactRunnerScript" />
+			<class name="automationScript.CreateAccRunnerScript" />
 		</classes>
 	</test>
 </suite>
