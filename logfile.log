@@ -25,3 +25,11 @@
 2019-01-12 19:36:52,530 INFO  [Log] Entered email address 
 2019-01-12 19:37:01,514 INFO  [Log] Clicked on created account 
 2019-01-12 19:37:02,513 INFO  [Log] Browser closed 
+2019-01-12 21:30:43,018 INFO  [Log] Driver instantiated 
+2019-01-12 21:30:48,603 INFO  [Log] Chrome driver instantiated 
+2019-01-12 21:31:09,802 INFO  [Log] URL launched 
+2019-01-12 21:31:10,950 INFO  [Log] Window maximized 
+2019-01-12 21:31:20,535 INFO  [Log] Clicked on Sign In 
+2019-01-12 21:31:20,700 INFO  [Log] Entered email address 
+2019-01-12 21:31:32,813 INFO  [Log] Clicked on created account 
+2019-01-12 21:31:33,454 INFO  [Log] Browser closed 

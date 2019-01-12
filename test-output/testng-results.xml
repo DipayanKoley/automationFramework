@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Suite" duration-ms="56500" started-at="2019-01-12T14:06:06Z" finished-at="2019-01-12T14:07:02Z">
+  <suite name="Test Suite" duration-ms="50548" started-at="2019-01-12T16:00:42Z" finished-at="2019-01-12T16:01:33Z">
     <groups>
     </groups>
-    <test name="Functional" duration-ms="56500" started-at="2019-01-12T14:06:06Z" finished-at="2019-01-12T14:07:02Z">
+    <test name="Functional" duration-ms="50548" started-at="2019-01-12T16:00:42Z" finished-at="2019-01-12T16:01:33Z">
       <class name="automationScript.RunnerScript">
-        <test-method status="PASS" signature="setDriver()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="setDriver" is-config="true" duration-ms="7849" started-at="2019-01-12T14:06:06Z" finished-at="2019-01-12T14:06:13Z">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="setDriver" is-config="true" duration-ms="5693" started-at="2019-01-12T16:00:42Z" finished-at="2019-01-12T16:00:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setDriver -->
-        <test-method status="PASS" signature="accountCreate()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="accountCreate" duration-ms="47613" started-at="2019-01-12T14:06:13Z" finished-at="2019-01-12T14:07:01Z">
+        <test-method status="PASS" signature="accountCreate()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="accountCreate" duration-ms="44150" started-at="2019-01-12T16:00:48Z" finished-at="2019-01-12T16:01:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accountCreate -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="closeBrowser" is-config="true" duration-ms="988" started-at="2019-01-12T14:07:01Z" finished-at="2019-01-12T14:07:02Z">
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="closeBrowser" is-config="true" duration-ms="627" started-at="2019-01-12T16:01:32Z" finished-at="2019-01-12T16:01:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
