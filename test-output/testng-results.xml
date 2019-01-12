@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45099" started-at="2019-01-12T13:25:55Z" finished-at="2019-01-12T13:26:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="45099" started-at="2019-01-12T13:25:55Z" finished-at="2019-01-12T13:26:40Z">
+      <class name="automationScript.RunnerScript">
+        <test-method status="PASS" signature="accountCreate()[pri:0, instance:automationScript.RunnerScript@548e7350]" name="accountCreate" duration-ms="45039" started-at="2019-01-12T13:25:55Z" finished-at="2019-01-12T13:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountCreate -->
+      </class> <!-- automationScript.RunnerScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
