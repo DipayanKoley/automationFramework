@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Test Suite" duration-ms="50548" started-at="2019-01-12T16:00:42Z" finished-at="2019-01-12T16:01:33Z">
+  <suite name="Test Suite" duration-ms="89413" started-at="2019-01-12T18:20:39Z" finished-at="2019-01-12T18:22:09Z">
     <groups>
     </groups>
-    <test name="Functional" duration-ms="50548" started-at="2019-01-12T16:00:42Z" finished-at="2019-01-12T16:01:33Z">
-      <class name="automationScript.RunnerScript">
-        <test-method status="PASS" signature="setDriver()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="setDriver" is-config="true" duration-ms="5693" started-at="2019-01-12T16:00:42Z" finished-at="2019-01-12T16:00:48Z">
+    <test name="Functional" duration-ms="89413" started-at="2019-01-12T18:20:39Z" finished-at="2019-01-12T18:22:09Z">
+      <class name="automationScript.ContactRunnerScript">
+        <test-method status="PASS" signature="contact()[pri:0, instance:automationScript.ContactRunnerScript@553f17c]" name="contact" duration-ms="29791" started-at="2019-01-12T18:20:39Z" finished-at="2019-01-12T18:21:09Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- setDriver -->
-        <test-method status="PASS" signature="accountCreate()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="accountCreate" duration-ms="44150" started-at="2019-01-12T16:00:48Z" finished-at="2019-01-12T16:01:32Z">
+        </test-method> <!-- contact -->
+      </class> <!-- automationScript.ContactRunnerScript -->
+      <class name="automationScript.CreateAccRunnerScript">
+        <test-method status="PASS" signature="accountCreate()[pri:0, instance:automationScript.CreateAccRunnerScript@4f7d0008]" name="accountCreate" duration-ms="59581" started-at="2019-01-12T18:21:09Z" finished-at="2019-01-12T18:22:09Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accountCreate -->
-        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="closeBrowser" is-config="true" duration-ms="627" started-at="2019-01-12T16:01:32Z" finished-at="2019-01-12T16:01:33Z">
+      </class> <!-- automationScript.CreateAccRunnerScript -->
+      <class name="automationScript.DriverSet">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:automationScript.DriverSet@5f341870]" name="setDriver" is-config="true" duration-ms="2974" started-at="2019-01-12T18:20:36Z" finished-at="2019-01-12T18:20:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationScript.DriverSet@5f341870]" name="closeBrowser" is-config="true" duration-ms="653" started-at="2019-01-12T18:22:09Z" finished-at="2019-01-12T18:22:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->
-      </class> <!-- automationScript.RunnerScript -->
+      </class> <!-- automationScript.DriverSet -->
     </test> <!-- Functional -->
   </suite> <!-- Test Suite -->
 </testng-results>
