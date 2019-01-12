@@ -2,16 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="45099" started-at="2019-01-12T13:25:55Z" finished-at="2019-01-12T13:26:40Z">
+  <suite name="Test Suite" duration-ms="56500" started-at="2019-01-12T14:06:06Z" finished-at="2019-01-12T14:07:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="45099" started-at="2019-01-12T13:25:55Z" finished-at="2019-01-12T13:26:40Z">
+    <test name="Functional" duration-ms="56500" started-at="2019-01-12T14:06:06Z" finished-at="2019-01-12T14:07:02Z">
       <class name="automationScript.RunnerScript">
-        <test-method status="PASS" signature="accountCreate()[pri:0, instance:automationScript.RunnerScript@548e7350]" name="accountCreate" duration-ms="45039" started-at="2019-01-12T13:25:55Z" finished-at="2019-01-12T13:26:40Z">
+        <test-method status="PASS" signature="setDriver()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="setDriver" is-config="true" duration-ms="7849" started-at="2019-01-12T14:06:06Z" finished-at="2019-01-12T14:06:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method status="PASS" signature="accountCreate()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="accountCreate" duration-ms="47613" started-at="2019-01-12T14:06:13Z" finished-at="2019-01-12T14:07:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- accountCreate -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:automationScript.RunnerScript@3abbfa04]" name="closeBrowser" is-config="true" duration-ms="988" started-at="2019-01-12T14:07:01Z" finished-at="2019-01-12T14:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
       </class> <!-- automationScript.RunnerScript -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Functional -->
+  </suite> <!-- Test Suite -->
 </testng-results>
