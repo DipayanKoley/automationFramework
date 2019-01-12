@@ -1,0 +1,27 @@
+2019-01-12 19:22:36,340 INFO  [Log] Driver instantiated 
+2019-01-12 19:22:39,887 INFO  [Log] Chrome driver instantiated 
+2019-01-12 19:23:02,809 INFO  [Log] URL launched 
+2019-01-12 19:23:03,968 INFO  [Log] Window maximized 
+2019-01-12 19:23:13,067 INFO  [Log] Clicked on Sign In 
+2019-01-12 19:23:13,245 INFO  [Log] Entered email address 
+2019-01-12 19:23:22,814 INFO  [Log] Clicked on created account 
+2019-01-12 19:23:23,483 INFO  [Log] Browser closed 
+2019-01-12 19:25:34,259 INFO  [Log] Driver instantiated 
+2019-01-12 19:25:38,273 INFO  [Log] Chrome driver instantiated 
+2019-01-12 19:25:56,260 INFO  [Log] URL launched 
+2019-01-12 19:25:57,390 INFO  [Log] Window maximized 
+2019-01-12 19:26:08,543 INFO  [Log] Clicked on Sign In 
+2019-01-12 19:26:08,848 INFO  [Log] Entered email address 
+2019-01-12 19:26:18,174 INFO  [Log] Clicked on created account 
+2019-01-12 19:26:18,827 INFO  [Log] Browser closed 
+2019-01-12 19:27:35,578 INFO  [Log] Driver instantiated 
+2019-01-12 19:27:39,587 INFO  [Log] Chrome driver instantiated 
+2019-01-12 19:27:40,454 INFO  [Log] Browser closed 
+2019-01-12 19:36:06,130 INFO  [Log] Driver instantiated 
+2019-01-12 19:36:13,868 INFO  [Log] Chrome driver instantiated 
+2019-01-12 19:36:40,797 INFO  [Log] URL launched 
+2019-01-12 19:36:42,056 INFO  [Log] Window maximized 
+2019-01-12 19:36:51,831 INFO  [Log] Clicked on Sign In 
+2019-01-12 19:36:52,530 INFO  [Log] Entered email address 
+2019-01-12 19:37:01,514 INFO  [Log] Clicked on created account 
+2019-01-12 19:37:02,513 INFO  [Log] Browser closed 
